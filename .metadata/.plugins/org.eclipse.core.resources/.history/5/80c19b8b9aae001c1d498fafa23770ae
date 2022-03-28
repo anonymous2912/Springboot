@@ -1,0 +1,8 @@
+package com.example.restapi;
+
+public class Student {
+
+	private final String rollno;
+	private String name;
+	
+}

@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>My App</title>
+</head>
+<body>
+<p>Enter Details</p>
+<form action="/success">
+<input type="text" placeholder="Email" name="Email">
+<br>
+<input type="password" placeholder="Password" name="Password">
+<br>
+<input type="submit">
+<br>
+</form>
+</body>
+</html>
